@@ -16,6 +16,7 @@ namespace Tests
     public class UnitTest1
     {
 //added some changes
+// changes 2
        private DriverManager driverManager;
 
         [SetUp]
