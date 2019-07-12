@@ -15,10 +15,11 @@ namespace Tests
 
     public class UnitTest1
     {
-
+//added some changes
        private DriverManager driverManager;
 
         [SetUp]
+        
         public void Setup()
         {
             driverManager = new ChromeDriverManager();
